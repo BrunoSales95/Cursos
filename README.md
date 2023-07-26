@@ -34,3 +34,12 @@
 | Microsoft - Análise de dados no Power BI               	| https://eucapacito.com.br/curso-ec/analise-de-dados-no-power-bi               	|
 | Microsof - Visualize dados no Power BI                 	| https://eucapacito.com.br/curso-ec/visualize-dados-no-power-bi                	|
 | SoulCode - Lógica de Programação                       	| https://eucapacito.com.br/curso-ec/logica-de-programacao                      	|
+
+# DSA - Data Science Academy
+| Curso                                                                               	| Link                                                                                                                       	|
+|-------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------	|
+| Fundamentos   de Engenharia de Dados                                                	| https://www.datascienceacademy.com.br/course/fundamentos-de-engenharia-de-dados                                            	|
+| Fundamentos de Inteligência Artificial                                              	| https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial                          	|
+| Fundamentos   de Linguagem Python Para Análise de Dados e Data Science              	| https://www.datascienceacademy.com.br/course?courseid=fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science 	|
+|             Microsoft   Power BI Para Business Intelligence e Data Science          	| https://www.datascienceacademy.com.br/path-player?courseid=microsoft-power-bi-para-business-intelligence-e-data-science    	|
+| Big Data Fundamentos 3.0                                                            	| https://www.datascienceacademy.com.br/path-player?courseid=big-data-fundamentos-3                                          	|
