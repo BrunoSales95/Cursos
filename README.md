@@ -18,3 +18,19 @@
 | Oracle SQL Explorer                                                                     	| https://mylearn.oracle.com/ou/learning-path/oracle-sql-explorer/79918                                                   	|
 | Oracle Database Explorer                                                                	| https://mylearn.oracle.com/ou/learning-path/oracle-database-explorer/79873                                              	|
 | Certificacao - Become an OCI Foundations   Associate (OCI Exam Subscription)            	| https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-oci-exam-subscription/108805            	|
+
+
+# EuCapacito
+
+| Curso                                                  	| Link                                                                          	|
+|--------------------------------------------------------	|-------------------------------------------------------------------------------	|
+| Cisco - Segurança   Digital – Cybersecurity Essentials 	| https://eucapacito.com.br/curso-ec/seguranca-digital-cybersecurity-essentials 	|
+| FIAP - Big Data & Analytics                            	| https://eucapacito.com.br/curso-ec/big-data-analytics                         	|
+| FIAP - Leadership Communication                        	| https://eucapacito.com.br/curso-ec/leadership-communication                   	|
+| FIAP - Marketing em Plataformas de Social   Media      	| https://eucapacito.com.br/curso-ec/marketing-em-plataformas-de-social-media   	|
+| FIAP - Cybersecurity                                   	| https://eucapacito.com.br/curso-ec/cybersecurity                              	|
+| FIAP - Linux Fundamentos                               	| https://eucapacito.com.br/curso-ec/linux-fundamentos                          	|
+| Microsoft- Business intelligence                       	| https://eucapacito.com.br/curso-ec/business-intelligence                      	|
+| Microsoft - Análise de dados no Power BI               	| https://eucapacito.com.br/curso-ec/analise-de-dados-no-power-bi               	|
+| Microsof - Visualize dados no Power BI                 	| https://eucapacito.com.br/curso-ec/visualize-dados-no-power-bi                	|
+| SoulCode - Lógica de Programação                       	| https://eucapacito.com.br/curso-ec/logica-de-programacao                      	|
