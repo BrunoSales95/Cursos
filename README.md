@@ -1,6 +1,11 @@
 # Cursos e Certificações
 
-# Oracle
+
+ # Oracle
+
+<details>
+    <summary>Ver todos os cursos</summary>
+  
 | Curso                                                                                   	| Link                                                                                                                    	|
 |-----------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------------------------------	|
 | Certificações Gratuitas                                                                 	| https://education.oracle.com/oracle-oci-certification                                                                   	|
@@ -18,10 +23,15 @@
 | Oracle SQL Explorer                                                                     	| https://mylearn.oracle.com/ou/learning-path/oracle-sql-explorer/79918                                                   	|
 | Oracle Database Explorer                                                                	| https://mylearn.oracle.com/ou/learning-path/oracle-database-explorer/79873                                              	|
 | Certificacao - Become an OCI Foundations   Associate (OCI Exam Subscription)            	| https://mylearn.oracle.com/ou/learning-path/become-an-oci-foundations-associate-oci-exam-subscription/108805            	|
+</details>
+
+---
 
 
 # EuCapacito
-
+<details>
+    <summary>Ver todos os cursos</summary>
+  
 | Curso                                                  	| Link                                                                          	|
 |--------------------------------------------------------	|-------------------------------------------------------------------------------	|
 | Cisco - Segurança   Digital – Cybersecurity Essentials 	| https://eucapacito.com.br/curso-ec/seguranca-digital-cybersecurity-essentials 	|
@@ -34,8 +44,16 @@
 | Microsoft - Análise de dados no Power BI               	| https://eucapacito.com.br/curso-ec/analise-de-dados-no-power-bi               	|
 | Microsof - Visualize dados no Power BI                 	| https://eucapacito.com.br/curso-ec/visualize-dados-no-power-bi                	|
 | SoulCode - Lógica de Programação                       	| https://eucapacito.com.br/curso-ec/logica-de-programacao                      	|
+</details>
+
+---
 
 # DSA - Data Science Academy
+
+<details>
+    <summary>Ver todos os cursos</summary>
+
+  
 | Curso                                                                               	| Link                                                                                                                       	|
 |-------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------	|
 | Fundamentos   de Engenharia de Dados                                                	| https://www.datascienceacademy.com.br/course/fundamentos-de-engenharia-de-dados                                            	|
@@ -43,3 +61,6 @@
 | Fundamentos   de Linguagem Python Para Análise de Dados e Data Science              	| https://www.datascienceacademy.com.br/course?courseid=fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science 	|
 |             Microsoft   Power BI Para Business Intelligence e Data Science          	| https://www.datascienceacademy.com.br/path-player?courseid=microsoft-power-bi-para-business-intelligence-e-data-science    	|
 | Big Data Fundamentos 3.0                                                            	| https://www.datascienceacademy.com.br/path-player?courseid=big-data-fundamentos-3                                          	|
+</details>
+
+---
