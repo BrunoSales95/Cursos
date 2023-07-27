@@ -53,12 +53,13 @@
 <details>
     <summary>Ver todos os cursos</summary>
 
-  | Curso                       	| Link                                                           	|
-|-----------------------------	|----------------------------------------------------------------	|
-| Certificado de Inglês EfSet 	| https://www.efset.org/pt/english-certificate/                  	|
-| Certificados - Certiprof    	| https://certiprof.com/pages/free-new-entry-level-certification 	|
-| Cursos - Recode             	| https://recode.org.br/trilhas-formativas/                      	|
-| Certificados - IBSEC        	| https://certs.ibsec.com.br/                                    	|
+| Curso                                                                               	| Link                                                                                                                       	|
+|-------------------------------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------	|
+| Fundamentos   de Engenharia de Dados                                                	| https://www.datascienceacademy.com.br/course/fundamentos-de-engenharia-de-dados                                            	|
+| Fundamentos de Inteligência Artificial                                              	| https://www.datascienceacademy.com.br/path-player?courseid=fundamentos-de-inteligencia-artificial                          	|
+| Fundamentos   de Linguagem Python Para Análise de Dados e Data Science              	| https://www.datascienceacademy.com.br/course?courseid=fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science 	|
+|             Microsoft   Power BI Para Business Intelligence e Data Science          	| https://www.datascienceacademy.com.br/path-player?courseid=microsoft-power-bi-para-business-intelligence-e-data-science    	|
+| Big Data Fundamentos 3.0                                                            	| https://www.datascienceacademy.com.br/path-player?courseid=big-data-fundamentos-3            
 
 </details>
 
