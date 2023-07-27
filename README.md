@@ -82,6 +82,20 @@
 
 ---
 
+### Senar Agro
+
+<details>
+    <summary>Ver todos os cursos</summary>
+
+| Curso                                  | link                                                                                                                          |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Cultivo   e Produção de Cana-de-Açúcar | https://ead.senar.org.br/cursos/cultivo-e-producao-de-cana-de-acucar                                                          |
+| Mudanças Climáticas e Agricultura      | https://ead.senar.org.br/cursos/mudancas-climaticas-e-agricultura                                                             |
+| Energia Fotovoltaica                   | https://ead.senar.org.br/storage/imagem-conteudo/arquivoConteudoProgramatico/conteudo_programatico_energia_fotovoltaica-1.pdf |
+
+</details>
+
+---
 ### Outros
 
 <details>
