@@ -69,7 +69,7 @@
 <details>
     <summary>Ver todos os cursos</summary>
  
-    | Curso                       	| Link                                                           	|
+| Curso                       	| Link                                                           	|
 |-----------------------------	|----------------------------------------------------------------	|
 | Certificado de Inglês EfSet 	| https://www.efset.org/pt/english-certificate/                  	|
 | Certificados - Certiprof    	| https://certiprof.com/pages/free-new-entry-level-certification 	|
